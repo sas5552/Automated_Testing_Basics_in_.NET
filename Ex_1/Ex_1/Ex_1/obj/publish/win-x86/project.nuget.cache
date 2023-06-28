@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9fFUClosls95PmgFpJrCLy9TkKaoV+bbQsyQA11GJfcz4uISSv8DIfIlD0TWHRrkgxpUIpnUhr6rjXfeqrtAQ==",
+  "success": true,
+  "projectFilePath": "D:\\EPAM'23\\AT\\Development_and_Build_Tools\\Ex_1\\Ex_1\\Ex_1\\Ex_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
